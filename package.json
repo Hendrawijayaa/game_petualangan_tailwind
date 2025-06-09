@@ -1,0 +1,16 @@
+{
+  "name": "game_petualangan_tailwind",
+  "version": "1.0.0",
+  "description": "Proyek belajar membuat game 'Pilih Sendiri Petualanganmu' dengan HTML, Tailwind CSS, dan JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind:init": "tailwindcss init"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^4.1.8"
+  }
+}
